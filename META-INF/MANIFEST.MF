@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fowler-c0e1c7a21a5335d7e475c2c795ed77deec37b776
+Bundle-SymbolicName: Fowler-c0e1c7a21a5335d7e475c2c795ed77deec37b776
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Fowler.c0e1c7a21a5335d7e475c2c795ed77deec37b776
